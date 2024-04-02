@@ -1,18 +1,5 @@
 # ReactNative-QuizApp
 
-Simple and easy to follow guide to start a Quiz App which uses the Navigation and Animation. It includes Routes, Animation, Screens
-
-## Screenshots
-
-<span style="padding-right: 50px">
-<img src="/docs/img1.png" height="400" width="200" />
-<img src="/docs/img2.png" height="400" width="200" />
-<img src="/docs/img3.png " height="400" width="200" />
-<img src="/docs/img4.png" height="400" width="200" />
-<img src="/docs/img5.png" height="400" width="200" />
-<img src="/docs/img6.png" height="400" width="200" />
-</span>
-
 ## Screens
 
 - Welcome Screen
@@ -35,7 +22,7 @@ Simple and easy to follow guide to start a Quiz App which uses the Navigation an
 
 ## Run the app
 
-- git clone https://github.com/n-bhasin/ReactNative-QuizApp.git
+- git clone https://github.com/medesigndd/ReactNative-QuizApp.git
 - cd ReactNative-QuizApp
 - yarn install
 - yarn run ios
