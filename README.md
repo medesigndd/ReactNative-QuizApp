@@ -25,4 +25,4 @@
 - git clone [https://github.com/medesigndd/ReactNative-QuizApp.git](https://github.com/medesigndd/ReactNative-QuizApp.git)
 - cd ReactNative-QuizApp
 - yarn install
-- yarn run ios
+- yarn run android
